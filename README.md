@@ -46,7 +46,7 @@ python preprocessing.py
 - Noise Reduction
 - Image Enhancement
 - Image Saving and Organization
-- 
+  
 ## Workflow
 1. Upload PDF or Image
 2. Convert PDF pages into images
