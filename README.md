@@ -56,10 +56,10 @@ python preprocessing.py
 
 ## Sample Results
 ### Input Image
-![Input](image/Data1.png)
+![Input](image/image15.png)
 
 ### Processed Image
-![Output](image/Data1_processed.png)
+![Output](image/image15_processed.png)
 
 ## Applications
 * Handwritten Notes Digitization
@@ -75,4 +75,5 @@ python preprocessing.py
 
 ## Author
 Anisha Upadhyaya
+
 Student | Python Developer | Computer Vision Enthusiast
