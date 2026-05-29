@@ -20,10 +20,15 @@ This project preprocesses handwritten notes and scanned documents to improve ima
 
 ## Project Structure
 Project/
+
 ├── preprocessing.py
+
 ├── requirements.txt
+
 ├── README.md
+
 ├── .gitignore
+
 
 ## Installation
 ```bash
