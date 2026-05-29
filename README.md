@@ -56,7 +56,7 @@ python preprocessing.py
 
 ## Sample Results
 ### Input Image
-![Input](image/image15.png)
+![Input](image/image15.jpg)
 
 ### Processed Image
 ![Output](image/image15_processed.png)
