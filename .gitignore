@@ -1,0 +1,10 @@
+pro/
+__pycache__/
+*.pyc
+uploaded/
+processed/
+.env
+
+activate.txt
+test.py
+test_imports.py
